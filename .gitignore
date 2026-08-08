@@ -5,3 +5,5 @@
 **/.ebextensions/
 **/.elasticbeanstalk/
 **/.DS_Store
+.env
+.streamlit/secrets.toml
